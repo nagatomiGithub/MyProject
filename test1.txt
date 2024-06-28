@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ぱすた
+=======
+餃子
+>>>>>>> f425b016c6728e40c4eee3264629df9623549342
 Hello world.
 Thank you/
 
@@ -7,7 +11,7 @@ This is "test1.txt".
 さらに内容を書き加えてみた。
 akjfhkahsdghakjhdgkjaｓｄｇｋじゃｈｄｇはｄｈｇはｋｄｓｈｇヵえｈたｋｈ；
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadadadasdaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
